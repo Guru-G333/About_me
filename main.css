@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Josefin+Sans|Lobster');
 div{
 	background-color: azure;
 	padding: 30px;
 	border: 1px solid aquamarine;
+	color: blue;
+}
+
+.decr{
+	font-family: 'Lobster', cursive;
+}
+
+h1,h2{
+	font-family: 'Bree Serif', serif;
 }
